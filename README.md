@@ -2,7 +2,7 @@
 
 It is beneficial for banks to understand what motivates a client to leave the company. Churn prevention enables businesses to create loyalty programmes and retention campaigns in order to retain as many customers as possible. This visualisation was created with PowerBI, and various features such as slicers, actions, intellisense, powerpivot, powerquery, and powermodelling were used.
 
-### [Dashboard Link](shorturl.at/aghS3)
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2FiZjYyN2UtMTcwOC00NzRkLWIyZjAtZTI2NThkN2RhYTc2IiwidCI6ImJkYjc0YjMwLTk1NjgtNDg1Ni1iZGJmLTA2NzU5Nzc4ZmNiYyIsImMiOjh9)
 
 ![Logo](https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/static/optimized/rev-6e21eac/wp-content/uploads/2016/08/maxresdefaultreduced.jpg)
 
